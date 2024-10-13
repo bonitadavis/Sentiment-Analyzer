@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/users7/cse/bgdavis/sentiment-analysis/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/main.cpp.o -c /users7/cse/bgdavis/sentiment-analysis/main.cpp",
+  "file": "/users7/cse/bgdavis/sentiment-analysis/main.cpp"
+},
+{
+  "directory": "/users7/cse/bgdavis/sentiment-analysis/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /users7/cse/bgdavis/sentiment-analysis/DSString.cpp",
+  "file": "/users7/cse/bgdavis/sentiment-analysis/DSString.cpp"
+},
+{
+  "directory": "/users7/cse/bgdavis/sentiment-analysis/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/Classifier.cpp.o -c /users7/cse/bgdavis/sentiment-analysis/Classifier.cpp",
+  "file": "/users7/cse/bgdavis/sentiment-analysis/Classifier.cpp"
+},
+{
+  "directory": "/users7/cse/bgdavis/sentiment-analysis/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_DSString.dir/test_DSString.cpp.o -c /users7/cse/bgdavis/sentiment-analysis/test_DSString.cpp",
+  "file": "/users7/cse/bgdavis/sentiment-analysis/test_DSString.cpp"
+},
+{
+  "directory": "/users7/cse/bgdavis/sentiment-analysis/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_DSString.dir/DSString.cpp.o -c /users7/cse/bgdavis/sentiment-analysis/DSString.cpp",
+  "file": "/users7/cse/bgdavis/sentiment-analysis/DSString.cpp"
+}
+]

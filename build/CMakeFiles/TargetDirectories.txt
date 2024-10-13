@@ -1,0 +1,4 @@
+/users7/cse/bgdavis/sentiment-analysis/build/CMakeFiles/sentiment.dir
+/users7/cse/bgdavis/sentiment-analysis/build/CMakeFiles/test_DSString.dir
+/users7/cse/bgdavis/sentiment-analysis/build/CMakeFiles/edit_cache.dir
+/users7/cse/bgdavis/sentiment-analysis/build/CMakeFiles/rebuild_cache.dir
